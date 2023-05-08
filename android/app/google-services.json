@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092344427391",
+    "project_id": "quotegen-b49e5",
+    "storage_bucket": "quotegen-b49e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092344427391:android:bf028776e11c649e03a04a",
+        "android_client_info": {
+          "package_name": "com.thameem.quotegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092344427391-tqhmm50r5s58qpa0uhn6m96n69m6j5d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thameem.quotegenerator",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1092344427391-tdih7vqjii4c69ddappmdnie1mr74nti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTLK4h4fnoePWZW3wCPuoHXvzDDS6cao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092344427391-tdih7vqjii4c69ddappmdnie1mr74nti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
